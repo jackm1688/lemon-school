@@ -1,0 +1,30 @@
+--create 证书的CN名称为账号名称
+cd /root/ssl
+openssl genrsa -out lemon.key 2048
+openssl req -new -key lemon.key -subj "/CN=lemon" -out lemon.csr
+openssl x509 -req -in lemon.csr -CA /opt/kubernetes/ssl/ca.pem -CAkey /opt/kubernetes/ssl/ca-key.pem -CAcreateserial -out lemon.crt -days 5000
+kubectl config set-credentials lemon --client-certificate=lemon.crt --client-key=lemon.key --embed-certs=true
+kubectl config set-cluster kubernetes   --server=https://192.168.0.81:6443  --certificate-authority=/opt/kubernetes/ssl/ca.pem     --embed-certs=true
+kubectl config set-context lemon@kubernetes --cluster=kubernetes --user=lemon
+kubectl config use-context  lemon@kubernetes
+
+kubectl config  get-contexts
+kubectl config   use-context  default
+
+
+kubectl create clusterrole lemon-ClusterRole --verb='*' --resource='*'
+kubectl create clusterrolebinding lemon-ClusterRoleBinding --clusterrole=lemon-ClusterRole --user=lemon
+kubectl config use-context lemon@kubernetes
+
+
+
+#创建具有管理权限的用户，然后将本地的.kube/config文件copy到macos机器上 ~/.kube/config
+openssl genrsa -out lemon-admin.key 2048
+openssl req -new -key lemon-admin.key -subj "/CN=lemon-admin/O=system:masters" -out lemon-admin.csr
+openssl x509 -req -in lemon-admin.csr -CA /opt/kubernetes/ssl/ca.pem -CAkey /opt/kubernetes/ssl/ca-key.pem -CAcreateserial -out lemon-admin.crt -days 5000
+kubectl config set-credentials lemon-admin --client-certificate=lemon-admin.crt --client-key=lemon-admin.key --embed-certs=true
+kubectl config set-context lemon-admin@kubernetes --cluster=kubernetes --user=lemon-admin
+kubectl config use-context lemon-admin@kubernetes
+
+
+

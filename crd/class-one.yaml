@@ -1,0 +1,8 @@
+apiVersion: school.lemon.io/v1
+kind: Class
+metadata:
+  name: "stu"
+spec:
+  className: "高三一班"
+  techerName: "高某某"
+  replicas: 50

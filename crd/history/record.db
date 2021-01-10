@@ -1,0 +1,209 @@
+{"id":0,"createAt":"2021-01-08 17:30:39","content":"kubectl cluster-version","md5Value":"e9571a150ad8747572473e6bdee983a6"}
+{"id":0,"createAt":"2021-01-08 17:30:49","content":"kubectl cluster-info","md5Value":"3aa04ae57199b9f90715968b896d20ce"}
+{"id":0,"createAt":"2021-01-08 17:31:33","content":"kubctl  version --short","md5Value":"2bab5a1f0cb9ad4e13dec3c0fa8e9337"}
+{"id":0,"createAt":"2021-01-08 17:31:39","content":"kubectl  version --short","md5Value":"e81783d0746a973d4d6097c268474b8c"}
+{"id":0,"createAt":"2021-01-08 17:49:08","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"f0a62474cf218d30c448af8dfee440cf"}
+{"id":0,"createAt":"2021-01-08 17:49:09","content":"kubectl  apply -f school.yaml","md5Value":"78cd0c70d6574367bf5105021e9a2b19"}
+{"id":0,"createAt":"2021-01-08 17:49:43","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"cd67bb2a3cea989a510bd971677eb71c"}
+{"id":0,"createAt":"2021-01-08 17:49:44","content":"kubectl  apply -f school.yaml","md5Value":"6f357da94252a70a374f40b6742ee3d7"}
+{"id":0,"createAt":"2021-01-08 17:49:52","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"3b387319db826ffbaa756d1191910775"}
+{"id":0,"createAt":"2021-01-08 17:49:53","content":"kubectl  apply -f school.yaml","md5Value":"469415bb33e22056d4e20d36655ce614"}
+{"id":0,"createAt":"2021-01-08 17:50:15","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"172a1253f4c705a5812e3445dc749c41"}
+{"id":0,"createAt":"2021-01-08 17:50:15","content":"kubectl  apply -f school.yaml","md5Value":"5ca5e17b0d77bedec8f3bc053a6b20d6"}
+{"id":0,"createAt":"2021-01-08 17:50:36","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"9e85d73f256f0490b834e80baf78bb9a"}
+{"id":0,"createAt":"2021-01-08 17:50:37","content":"kubectl  apply -f school.yaml","md5Value":"7b71037a9540c724a7c7ada2b82aae3e"}
+{"id":0,"createAt":"2021-01-08 17:51:41","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"aa89ba521f881fab2bd30a5f541429fa"}
+{"id":0,"createAt":"2021-01-08 17:51:41","content":"kubectl  apply -f school.yaml","md5Value":"5f661ab766aa75c42ae8b8e95e62f725"}
+{"id":0,"createAt":"2021-01-08 17:53:34","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"cb2c8b83b4fbf767c3f717ea944cb499"}
+{"id":0,"createAt":"2021-01-08 17:53:34","content":"kubectl  apply -f school.yaml","md5Value":"29180de4c1a5a547ae61d3bd927a86d6"}
+{"id":0,"createAt":"2021-01-08 17:53:56","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"d6c0424cc7fb9b1e5abc0c973bca15f2"}
+{"id":0,"createAt":"2021-01-08 17:53:57","content":"kubectl  apply -f school.yaml","md5Value":"b135ebba5e24794ebf2f1d69cd632708"}
+{"id":0,"createAt":"2021-01-08 17:54:47","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"504302cc5330f125614178e4038dfea1"}
+{"id":0,"createAt":"2021-01-08 17:54:48","content":"kubectl  apply -f school.yaml","md5Value":"3c128d242b011760c13904711dbd7b9b"}
+{"id":0,"createAt":"2021-01-08 17:54:58","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"3c37af3958ca5618834d40de684011df"}
+{"id":0,"createAt":"2021-01-08 17:54:58","content":"kubectl  apply -f school.yaml","md5Value":"5f169209b932905b125e3fad05a0fa76"}
+{"id":0,"createAt":"2021-01-08 17:55:49","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"25b5746f022a9080dc240bea50e0b3fb"}
+{"id":0,"createAt":"2021-01-08 17:55:50","content":"kubectl  apply -f school.yaml","md5Value":"8df8dad32a3bbd1a516a96cc25a961c6"}
+{"id":0,"createAt":"2021-01-08 17:56:03","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"711c954fd37d12f5227208e6f75fabf1"}
+{"id":0,"createAt":"2021-01-08 17:56:04","content":"kubectl  delete -f school.yaml","md5Value":"727e968c29920458e84d35929d8a78f4"}
+{"id":0,"createAt":"2021-01-08 17:56:07","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"f7c9d4d10676a3718585f7d0651a57c5"}
+{"id":0,"createAt":"2021-01-08 17:56:07","content":"kubectl  apply -f school.yaml","md5Value":"9a5714ff220f49c08bdc9881689c41dd"}
+{"id":0,"createAt":"2021-01-08 17:58:12","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"dafa654810b4f33963d9c7d4e73a58fb"}
+{"id":0,"createAt":"2021-01-08 17:58:12","content":"kubectl  apply -f class-one.yaml ","md5Value":"3e2a30a8d0a7f4de05bdc8980bc71f89"}
+{"id":0,"createAt":"2021-01-08 17:58:35","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"7c23b1b8dd7281f5c1fc8d1ddce9816e"}
+{"id":0,"createAt":"2021-01-08 17:58:35","content":"kubectl  apply -f class-one.yaml ","md5Value":"85f5db405cb3a99a1ec1d8877cbb0166"}
+{"id":0,"createAt":"2021-01-08 17:59:11","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"e058a9d3b4f8a8e4ec9474b09d1e3b0b"}
+{"id":0,"createAt":"2021-01-08 17:59:11","content":"kubectl  apply -f class-one.yaml ","md5Value":"d4a1fd5346c046b2f02917d1f057d309"}
+{"id":0,"createAt":"2021-01-08 17:59:28","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"8bf0dbdc3e042cb6780252f1d87c09db"}
+{"id":0,"createAt":"2021-01-08 17:59:28","content":"kubectl  apply -f class-one.yaml ","md5Value":"b2fb0cc96119096c3df1fbf90ff9aba2"}
+{"id":0,"createAt":"2021-01-08 18:00:00","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"fdd5837118dc6235730d6d2045d4fecd"}
+{"id":0,"createAt":"2021-01-08 18:00:01","content":"kubectl  apply -f school.yaml","md5Value":"da3aeee90fb5901a116053adb6517ffd"}
+{"id":0,"createAt":"2021-01-08 18:00:18","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"7b83dd3b4194ac212bf9a96e97f19a62"}
+{"id":0,"createAt":"2021-01-08 18:00:20","content":"kubectl  delete -f school.yaml","md5Value":"24984c6d4ea9c5321cc6601acd4650a2"}
+{"id":0,"createAt":"2021-01-08 18:00:24","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"836a362302d35361e09a2bc29fbfe5f7"}
+{"id":0,"createAt":"2021-01-08 18:00:25","content":"kubectl  apply -f school.yaml","md5Value":"c7cb367379e3fb519a83599a59f44f1f"}
+{"id":0,"createAt":"2021-01-08 18:00:41","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"d9f07f8ef194a13b6f0fc19e767a93ab"}
+{"id":0,"createAt":"2021-01-08 18:00:42","content":"kubectl  apply -f class-one.yaml ","md5Value":"bbbb79cd88f9d6c5aa4548d1a1071eb7"}
+{"id":0,"createAt":"2021-01-08 18:01:36","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"e1685714f7aaf39ce935a71b0ddd842a"}
+{"id":0,"createAt":"2021-01-08 18:01:37","content":"kubectl  apply -f school.yaml","md5Value":"caf80495b95f33ea1d823a94902a6449"}
+{"id":0,"createAt":"2021-01-08 18:07:47","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"d753a46f9ba3d1937f58ae7904118fb9"}
+{"id":0,"createAt":"2021-01-08 18:07:47","content":"kubectl  apply -f school.yaml","md5Value":"a0521a7a621686bdbb4d738676850966"}
+{"id":0,"createAt":"2021-01-08 18:08:06","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"af6ff87a443326a9de2c3effdd03f95d"}
+{"id":0,"createAt":"2021-01-08 18:08:06","content":"kubectl  apply -f school.yaml","md5Value":"5715e501ec7b87da212f33c5044e30ab"}
+{"id":0,"createAt":"2021-01-08 18:09:01","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"11de44caaaa88856045a2e6e4d434622"}
+{"id":0,"createAt":"2021-01-08 18:09:01","content":"kubectl  apply -f school.yaml","md5Value":"8cd063ee20d5a14c9102b83a00822b89"}
+{"id":0,"createAt":"2021-01-08 18:09:32","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"0b4902efc089f45e73043fdaa5a8f868"}
+{"id":0,"createAt":"2021-01-08 18:09:33","content":"kubectl  apply -f school.yaml","md5Value":"0452a1677038db137fcc9a72a7c6031d"}
+{"id":0,"createAt":"2021-01-08 18:09:46","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"4dc3077e538f55f81894f023dc62e43b"}
+{"id":0,"createAt":"2021-01-08 18:09:46","content":"kubectl  apply -f school.yaml","md5Value":"b07494d75b5d85740d7fc7692dec432d"}
+{"id":0,"createAt":"2021-01-08 18:10:10","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"a1523a3a68f1da43efb8f25a5ad9c25b"}
+{"id":0,"createAt":"2021-01-08 18:10:11","content":"kubectl  apply -f school.yaml","md5Value":"31d489aac48586686b0e3655cb0ce525"}
+{"id":0,"createAt":"2021-01-08 18:10:20","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"96dd0e35b9db088b5d31fe6ec3f93fbb"}
+{"id":0,"createAt":"2021-01-08 18:10:22","content":"kubectl  delete -f school.yaml","md5Value":"46674c9c12e2013e14f9370f315fe0fa"}
+{"id":0,"createAt":"2021-01-08 18:10:24","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"de751f2b2e16efbff47dbc4b6a92958a"}
+{"id":0,"createAt":"2021-01-08 18:10:25","content":"kubectl  apply -f school.yaml","md5Value":"49625a3dac7ffa1868886ebcb2d01286"}
+{"id":0,"createAt":"2021-01-08 18:12:19","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"ae3bcd8d785a7572fc3b31c8f805f6e5"}
+{"id":0,"createAt":"2021-01-08 18:12:20","content":"kubectl  apply -f school.yaml","md5Value":"3f8a3933a840b0a63c705d27f2050958"}
+{"id":0,"createAt":"2021-01-08 18:12:54","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"7f4c608a76fc00088018903a0cc9e2b6"}
+{"id":0,"createAt":"2021-01-08 18:12:54","content":"kubectl  apply -f school.yaml","md5Value":"e4cd67fc522cf18bc3caaf4c89b54aa2"}
+{"id":0,"createAt":"2021-01-08 18:13:17","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"941e4ce99d8b08f12562d19712e33688"}
+{"id":0,"createAt":"2021-01-08 18:13:17","content":"kubectl  apply -f school.yaml","md5Value":"079b774fd9866c421359b6e4a5e8de45"}
+{"id":0,"createAt":"2021-01-08 18:13:28","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"c0efad6147b4280ace2ca55abda079d3"}
+{"id":0,"createAt":"2021-01-08 18:13:29","content":"kubectl  apply -f school.yaml","md5Value":"f9eebb1ec19fc4983745ae22fa26662f"}
+{"id":0,"createAt":"2021-01-08 18:13:57","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"751925f3e59bf8e888c507ba6193bb42"}
+{"id":0,"createAt":"2021-01-08 18:13:57","content":"kubectl  apply -f school.yaml","md5Value":"93645f0e7e7e05f49ce51c00af1bbb48"}
+{"id":0,"createAt":"2021-01-08 18:14:40","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"ea938c03b198ccd834c05e89fc283c37"}
+{"id":0,"createAt":"2021-01-08 18:14:40","content":"kubectl  apply -f school.yaml","md5Value":"8fcbcee46670f65a8449dd7f54a3fe21"}
+{"id":0,"createAt":"2021-01-08 18:14:59","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"e2f3f3b4b815e94b89f3a0d7d1019c99"}
+{"id":0,"createAt":"2021-01-08 18:14:59","content":"kubectl  apply -f school.yaml","md5Value":"8439d97d7bf438a02dbaf04a58e714ac"}
+{"id":0,"createAt":"2021-01-08 18:16:25","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"c8a5636acf6bb503aeee6c7095f20e26"}
+{"id":0,"createAt":"2021-01-08 18:16:25","content":"kubectl  apply -f school.yaml","md5Value":"c34c72290eec3b67d234d0686749d1c0"}
+{"id":0,"createAt":"2021-01-08 18:17:47","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"55465591ddb659f14f2cd70616c0e0b8"}
+{"id":0,"createAt":"2021-01-08 18:17:47","content":"kubectl  apply -f class-one.yaml ","md5Value":"f2e4a4ac00ffe8da33ad1d0ec688a2cc"}
+{"id":0,"createAt":"2021-01-08 18:19:07","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"7c73c3e732c72853743f7241f9a899a4"}
+{"id":0,"createAt":"2021-01-08 18:19:08","content":"kubectl  apply -f school.yaml","md5Value":"f8e87c49314e35d2ffaf87588832332b"}
+{"id":0,"createAt":"2021-01-08 18:21:28","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"198306657588560b84f4f6e142976c8c"}
+{"id":0,"createAt":"2021-01-08 18:21:29","content":"kubectl  apply -f class-one.yaml ","md5Value":"e873a113c0b2888d6520ae7c4c39a12a"}
+{"id":0,"createAt":"2021-01-08 18:21:32","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"16bde1bc1f0a63dc24346b50800438f7"}
+{"id":0,"createAt":"2021-01-08 18:21:33","content":"kubectl  apply -f school.yaml","md5Value":"bced73c8777b85da4f2e342e9a68eb0a"}
+{"id":0,"createAt":"2021-01-08 18:22:00","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"ba15ccfdbfc6c780653546947514cbda"}
+{"id":0,"createAt":"2021-01-08 18:22:01","content":"kubectl  apply -f school.yaml","md5Value":"952ba56902a3c1b63c284f60b7b296e7"}
+{"id":0,"createAt":"2021-01-08 18:22:13","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"d9e06fee34271f48fd3be371df597c82"}
+{"id":0,"createAt":"2021-01-08 18:22:15","content":"kubectl delete -f school.yaml","md5Value":"3bf015b695b1554084053f2f777c9dca"}
+{"id":0,"createAt":"2021-01-08 18:22:18","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"fef44b576f3b4c428c58df0f7de84045"}
+{"id":0,"createAt":"2021-01-08 18:22:19","content":"kubectl  apply -f school.yaml","md5Value":"cb7fdd0fb279bdee86305cf6cd71d542"}
+{"id":0,"createAt":"2021-01-08 18:31:42","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"b9cbff4e7a248f0a82727111044f28b8"}
+{"id":0,"createAt":"2021-01-08 18:31:42","content":"kubectl  apply -f school.yaml","md5Value":"a7728582a5bb67cfec9883bcc650b556"}
+{"id":0,"createAt":"2021-01-08 18:32:29","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"d786b8dce5e635649fe9cb9f424efa02"}
+{"id":0,"createAt":"2021-01-08 18:32:29","content":"kubectl  apply -f school.yaml","md5Value":"05778e3529b18cf0eb65abf94f781c3f"}
+{"id":0,"createAt":"2021-01-08 18:33:05","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"81b043bbd22ef888bf3dab284e48aaa4"}
+{"id":0,"createAt":"2021-01-08 18:33:06","content":"kubectl  apply -f school.yaml","md5Value":"6caf322dffa9641eb1740e8151ffaf95"}
+{"id":0,"createAt":"2021-01-08 18:33:12","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"b8dcf7a632de3980714ec8a0c4e640ae"}
+{"id":0,"createAt":"2021-01-08 18:33:12","content":"kubectl  apply -f school.yaml","md5Value":"001a570cd67f05a568951e7a5d617e07"}
+{"id":0,"createAt":"2021-01-08 18:34:39","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"b9ede26b9263f252027e76ab234ad002"}
+{"id":0,"createAt":"2021-01-08 18:34:40","content":"kubectl  apply -f school.yaml","md5Value":"04ad4ea8891a25aa3774f8d205bc4da7"}
+{"id":0,"createAt":"2021-01-08 18:34:56","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"9512e0dadc49364d42cb2d3b4ac17f1c"}
+{"id":0,"createAt":"2021-01-08 18:34:57","content":"kubectl  apply -f school.yaml","md5Value":"07d00b0b026584db16980bd1e7d3c2e7"}
+{"id":0,"createAt":"2021-01-08 18:41:12","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"b993f51f4f7dbbd45f9ed16a38328dd3"}
+{"id":0,"createAt":"2021-01-08 18:41:12","content":"kubectl  apply -f school.yaml","md5Value":"4b59604a5b9d55ed91f6c00810e8f9c4"}
+{"id":0,"createAt":"2021-01-08 18:41:54","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"a46657506fa2d44c655e28d534027c29"}
+{"id":0,"createAt":"2021-01-08 18:41:54","content":"kubectl  apply -f school.yaml","md5Value":"3570e465c96066a5e3bbd04ff3f0563f"}
+{"id":0,"createAt":"2021-01-08 18:42:04","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"5098efd2918f9eb6e40b6a0e22fdcbd4"}
+{"id":0,"createAt":"2021-01-08 18:42:05","content":"kubectl  delete -f school.yaml","md5Value":"d5fab282adce896b50029f3a9defb67e"}
+{"id":0,"createAt":"2021-01-08 18:42:08","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"199dda03a3bf686ebd4ffdb1f4f53b6c"}
+{"id":0,"createAt":"2021-01-08 18:42:09","content":"kubectl  apply -f school.yaml","md5Value":"225f3c0aeb1945009f7f31b3f580d1e4"}
+{"id":0,"createAt":"2021-01-08 18:43:12","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"dd058bda9c8d82023e907117c35a890b"}
+{"id":0,"createAt":"2021-01-08 18:43:13","content":"kubectl  apply -f school.yaml","md5Value":"ccc69d3d35e2ebdd3b4a3d689c2fc7c1"}
+{"id":0,"createAt":"2021-01-08 18:43:21","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"53ef427dd3cfe0aac5d50dbc49baad31"}
+{"id":0,"createAt":"2021-01-08 18:43:22","content":"kubectl  apply -f class-one.yaml ","md5Value":"0f29161c171f8916c87118ec67ff8852"}
+{"id":0,"createAt":"2021-01-08 18:44:38","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"61d92f6a6a4436e357a4641bcda93b85"}
+{"id":0,"createAt":"2021-01-08 18:44:38","content":"kubectl  apply -f class-one.yaml ","md5Value":"4337aceccbca46aafb96103033c73d6f"}
+{"id":0,"createAt":"2021-01-08 18:45:03","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"1782889bbbbd956ee2c99607d4eb1b3d"}
+{"id":0,"createAt":"2021-01-08 18:45:06","content":"kubectl  delete -f school.yaml","md5Value":"545db75bf189a52189664a621419e063"}
+{"id":0,"createAt":"2021-01-08 18:45:10","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"1bccd5e4fab03c4b767f3519cedbaf7c"}
+{"id":0,"createAt":"2021-01-08 18:45:10","content":"kubectl  apply -f school.yaml","md5Value":"3488fd4767bf37cecd6248e66396f6b8"}
+{"id":0,"createAt":"2021-01-08 18:45:13","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"91bd8832c2922babc46e1d64a557f359"}
+{"id":0,"createAt":"2021-01-08 18:45:14","content":"kubectl  apply -f class-one.yaml ","md5Value":"f11a59a50d0e0dd33e24ae4a2f1ead53"}
+{"id":0,"createAt":"2021-01-08 18:47:37","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"819f3ab8b2466a685f8602ee483cac25"}
+{"id":0,"createAt":"2021-01-08 18:47:38","content":"kubectl  apply -f school.yaml","md5Value":"6a07befe88575c9906977c15f3ce4689"}
+{"id":0,"createAt":"2021-01-08 18:48:07","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"6ae221f3c62c71e1de0ec6e71a9d1040"}
+{"id":0,"createAt":"2021-01-08 18:48:07","content":"kubectl  apply -f school.yaml","md5Value":"44136b4f0eaa257494e77ae6f13eb159"}
+{"id":0,"createAt":"2021-01-08 18:48:11","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"ef89ef62454aeb5b4ed4cb0c49495a6b"}
+{"id":0,"createAt":"2021-01-08 18:48:12","content":"kubectl  delete -f school.yaml","md5Value":"458ba3e00c2126920666c14e3d2c67ac"}
+{"id":0,"createAt":"2021-01-08 18:48:15","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"e55bf83e9370f18cb7e9a0eeb33ee8c4"}
+{"id":0,"createAt":"2021-01-08 18:48:16","content":"kubectl  apply -f school.yaml","md5Value":"be3cf3c5c7585c6200fd1cc0f7687e82"}
+{"id":0,"createAt":"2021-01-08 18:48:28","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"b087da28a9493afbda452f6077034f64"}
+{"id":0,"createAt":"2021-01-08 18:48:29","content":"kubectl  apply -f school.yaml","md5Value":"9dd027a2ad1f255dabb60ed2c6614487"}
+{"id":0,"createAt":"2021-01-08 18:48:33","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"53ce8cb88c771f8ef1ac7e643839cf37"}
+{"id":0,"createAt":"2021-01-08 18:48:33","content":"kubectl  apply -f school.yaml","md5Value":"83cfc6deeb11fff3ac355de28743e9dc"}
+{"id":0,"createAt":"2021-01-08 18:48:51","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"45f321d9f770423324d4f830fcfeedc6"}
+{"id":0,"createAt":"2021-01-08 18:48:52","content":"kubectl  apply -f class-one.yaml ","md5Value":"ad094c8a998caed4aff003a142a9e921"}
+{"id":0,"createAt":"2021-01-08 19:08:27","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"1e887d3bc281982023de4ca831b0e62a"}
+{"id":0,"createAt":"2021-01-08 19:08:28","content":"kubectl  apply -f school.yaml","md5Value":"ac575dc8b2ed28daf8a380ed045ee0d8"}
+{"id":0,"createAt":"2021-01-08 19:18:26","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"786b7fadbc741f2ba167afb645bd7768"}
+{"id":0,"createAt":"2021-01-08 19:18:26","content":"kubectl  apply -f school.yaml","md5Value":"80a87209fe25613837fec581a72d0c77"}
+{"id":0,"createAt":"2021-01-08 19:18:54","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"9a8ebd5456459aa52c7a75d535f6c1f8"}
+{"id":0,"createAt":"2021-01-08 19:18:54","content":"kubectl  apply -f class-one.yaml ","md5Value":"5e357bdf6080ed404882b2e579c7abaa"}
+{"id":0,"createAt":"2021-01-08 19:18:57","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"619f492369d19f7aa74710e06035ce18"}
+{"id":0,"createAt":"2021-01-08 19:18:57","content":"kubectl  apply -f school.yaml","md5Value":"1e416e768842cc6c13bd325aaf81c8c8"}
+{"id":0,"createAt":"2021-01-08 19:19:21","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"96c3fc26e79d012948541a0738c95aed"}
+{"id":0,"createAt":"2021-01-08 19:19:22","content":"kubectl  apply -f school.yaml","md5Value":"d9d3f388e900ed0ebec856d5ec15dbe2"}
+{"id":0,"createAt":"2021-01-08 19:19:44","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"6869ae763f78f199777b8cbda467df7c"}
+{"id":0,"createAt":"2021-01-08 19:19:45","content":"kubectl  apply -f school.yaml","md5Value":"ed95a233f9130f93b8d1ce57f16127a9"}
+{"id":0,"createAt":"2021-01-08 19:19:48","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"36d1ed9be585856891b90418091f7483"}
+{"id":0,"createAt":"2021-01-08 19:19:50","content":"kubectl  apply -f class-one.yaml ","md5Value":"c36e98a727b41f07414e6eecb7ec4013"}
+{"id":0,"createAt":"2021-01-08 19:23:43","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"a4b33b67b2b3789057a180f24a4a875a"}
+{"id":0,"createAt":"2021-01-08 19:23:44","content":"kubectl  apply -f school.yaml","md5Value":"8ab75f53d46a5ad43ab42c374f75d657"}
+{"id":0,"createAt":"2021-01-08 19:27:20","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"35e29711159d20dedea96d38b48bf35c"}
+{"id":0,"createAt":"2021-01-08 19:27:20","content":"kubectl  apply -f class-one.yaml ","md5Value":"0d78fd4d4c64f3255466a05a1056325b"}
+{"id":0,"createAt":"2021-01-08 19:27:23","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"e8a549a1542a63e8634cb90c3ede6f09"}
+{"id":0,"createAt":"2021-01-08 19:27:23","content":"kubectl  apply -f school.yaml","md5Value":"ba766eaf3e0a43dbfad318416bfed3dd"}
+{"id":0,"createAt":"2021-01-08 19:35:48","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"a1f6887b2bf1020c0e4f345ea560927d"}
+{"id":0,"createAt":"2021-01-08 19:35:48","content":"kubectl  apply -f school.yaml","md5Value":"74e6c79b24dd7386a209b8a33b7bfd05"}
+{"id":0,"createAt":"2021-01-08 19:36:43","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"4f4b80082ab7e25354b3a4d548036a2f"}
+{"id":0,"createAt":"2021-01-08 19:36:44","content":"kubectl  apply -f school.yaml","md5Value":"b20ec08a2b8f2d204716627af6bdf41e"}
+{"id":0,"createAt":"2021-01-08 19:37:04","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"f2ee5f319297a4cd0c1fe9b35e171cb7"}
+{"id":0,"createAt":"2021-01-08 19:37:05","content":"kubectl  apply -f school.yaml","md5Value":"f5fdcb606fb2180a2db4ca2e832a25a2"}
+{"id":0,"createAt":"2021-01-08 19:37:17","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"1226d179cbfb84c2a2e17dfa395600d2"}
+{"id":0,"createAt":"2021-01-08 19:37:17","content":"kubectl  apply -f school.yaml","md5Value":"e8b921149fa1fb0e68c9342ad50a1ed7"}
+{"id":0,"createAt":"2021-01-08 19:56:27","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"37a7dbbf6b25b70fad14db7682f9b9ef"}
+{"id":0,"createAt":"2021-01-08 19:56:27","content":"kubectl  apply -f school.yaml","md5Value":"796bbf4b03455c46b87d230bb854c505"}
+{"id":0,"createAt":"2021-01-08 19:56:52","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"d5cd184d2aeb83e7fbfd74b89519217b"}
+{"id":0,"createAt":"2021-01-08 19:56:52","content":"kubectl  apply -f school.yaml","md5Value":"f07df2eb14a10ba5ae19e908441b5c03"}
+{"id":0,"createAt":"2021-01-08 19:59:13","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"0c770a2e4bc0f3e333779893550e96fb"}
+{"id":0,"createAt":"2021-01-08 19:59:14","content":"kubectl  apply -f school.yaml","md5Value":"8e6f6a190802bc92ebef6221d0c0724b"}
+{"id":0,"createAt":"2021-01-08 19:59:22","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"9b905db71e892912f5d3e38ea1aea2ee"}
+{"id":0,"createAt":"2021-01-08 19:59:22","content":"kubectl  apply -f school.yaml","md5Value":"1324b2374dd0690e5ec6267f370faf51"}
+{"id":0,"createAt":"2021-01-08 19:59:59","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"602341ac5166d04d21f0e72e2fabe45e"}
+{"id":0,"createAt":"2021-01-08 19:59:59","content":"kubectl  apply -f school.yaml","md5Value":"e3d456e2be3ab4f793f0dc5532dc6a63"}
+{"id":0,"createAt":"2021-01-08 20:00:33","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"7b8063aa6799019aa3005609cf1262ec"}
+{"id":0,"createAt":"2021-01-08 20:00:33","content":"kubectl  apply -f school.yaml","md5Value":"6eb6b25cb4f1de1223655b1d67c7ec16"}
+{"id":0,"createAt":"2021-01-08 20:03:29","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"e9e4cd8412a87d1041008cc80d106bf5"}
+{"id":0,"createAt":"2021-01-08 20:03:29","content":"kubectl  apply -f school.yaml","md5Value":"75f047aaa0e0c18e1e5fcc12e91b22eb"}
+{"id":0,"createAt":"2021-01-08 20:03:38","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"c473e086b9453879fedfa95160d1e200"}
+{"id":0,"createAt":"2021-01-08 20:03:39","content":"kubectl  delete -f school.yaml","md5Value":"b1cc38685bc480ad718b8e1af3ca72c1"}
+{"id":0,"createAt":"2021-01-08 20:03:41","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"af1487e2194b72307c0198745370be7a"}
+{"id":0,"createAt":"2021-01-08 20:03:42","content":"kubectl  apply -f school.yaml","md5Value":"07abcaf03d281aaeaf0ee868bbb9e5bb"}
+{"id":0,"createAt":"2021-01-08 20:05:11","content":"scp class-one.yaml root@k8s-master1:22:/root","md5Value":"871c4727c741d83b5537ea37ec4d1f70"}
+{"id":0,"createAt":"2021-01-08 20:05:12","content":"kubectl  apply -f class-one.yaml ","md5Value":"9d191a197efd3d42e5e66c1b8676d0e7"}
+{"id":0,"createAt":"2021-01-08 20:06:02","content":"scp school.yaml root@k8s-master1:22:/root","md5Value":"8817de926ce8affa7bdc1e07e672c85c"}
+{"id":0,"createAt":"2021-01-08 20:06:03","content":"kubectl  apply -f school.yaml","md5Value":"7e3d3166188e06f60d9e946082994434"}
+{"id":0,"createAt":"2021-01-09 02:17:38","content":"pwd","md5Value":"72e0b4f07dd85afba76d0c2d202c7d34"}
+{"id":0,"createAt":"2021-01-09 02:18:17","content":"scp school.yaml root@k8s-master2:22:/root","md5Value":"3bed1c26470e8ff2148dcc9b74d337e2"}
+{"id":0,"createAt":"2021-01-09 02:18:17","content":"kubectl apply -f school.yaml","md5Value":"ae6aa31258ef4fe4a62cf172a5e97e49"}
+{"id":0,"createAt":"2021-01-09 02:19:02","content":"scp class-one.yaml root@k8s-master2:22:/root","md5Value":"0b6b9887e0f68ae75352d6ab3586f9a1"}
+{"id":0,"createAt":"2021-01-09 02:19:04","content":"kubectl apply -f class-one.yaml ","md5Value":"14a4008eddc6504f3f31149d33fe77b5"}
+{"id":0,"createAt":"2021-01-09 02:30:37","content":"scp school.yaml root@k8s-master2:22:/root","md5Value":"cdeddfc21cb66a3efce6e9d46e8ae415"}
+{"id":0,"createAt":"2021-01-09 02:30:38","content":"kubectl apply -f school.yaml","md5Value":"f54d804b76f2f857dd9e5da59f105224"}
+{"id":0,"createAt":"2021-01-09 02:33:06","content":"scp school.yaml root@k8s-master2:22:/root","md5Value":"984767eef8aee771b738231ff0131d50"}
+{"id":0,"createAt":"2021-01-09 02:33:10","content":"kubectl delete  -f school.yaml","md5Value":"aee8c92aa0aff2e593c6043eef887448"}
+{"id":0,"createAt":"2021-01-09 02:33:39","content":"scp school.yaml root@k8s-master2:22:/root","md5Value":"309226dd44d6e2775bc577532186b2eb"}
+{"id":0,"createAt":"2021-01-09 02:33:40","content":"kubectl apply -f school.yaml","md5Value":"03506a50214b36f059e8fcaa450b30cd"}
+{"id":0,"createAt":"2021-01-09 02:33:53","content":"scp class-one.yaml root@k8s-master2:22:/root","md5Value":"aff2a1df2348bdbc3eb385844526e94d"}
+{"id":0,"createAt":"2021-01-09 02:33:54","content":"kubectl apply -f class-one.yaml ","md5Value":"0c71f736565be212f82560f2228fcc77"}
+{"id":0,"createAt":"2021-01-09 02:39:27","content":"scp school.yaml root@k8s-master2:22:/root","md5Value":"d664b4a136f92bb62264be435fb54077"}
+{"id":0,"createAt":"2021-01-09 02:39:27","content":"kubectl apply -f school.yaml","md5Value":"6e1ac06fc2a224d4e0f3985a0751959d"}
+{"id":0,"createAt":"2021-01-09 02:39:31","content":"scp class-one.yaml root@k8s-master2:22:/root","md5Value":"4afab1b174fe07e6d159ffe045d6f504"}
+{"id":0,"createAt":"2021-01-09 02:39:31","content":"kubectl apply -f class-one.yaml ","md5Value":"6a29df1d1cf9e4b55c7b0d34399b29b7"}
+{"id":0,"createAt":"2021-01-09 11:51:08","content":"scp serviceaccount.yaml root@k8s-master2:22:/root","md5Value":"5f882812225bc5210a99e944d3ce55f5"}
+{"id":0,"createAt":"2021-01-09 11:51:08","content":"kubectl apply -f serviceaccount.yaml","md5Value":"e4ea520d299f94accde0f0b11b5a8c41"}

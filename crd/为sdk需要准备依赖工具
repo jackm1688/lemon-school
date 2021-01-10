@@ -1,0 +1,17 @@
+预备条件
+dep version v0.5.0+.
+git
+go version v1.10+.
+docker version 17.03+.
+kubectl version v1.10.0+.
+Access to a kubernetes v.1.10.0+ cluster.
+
+/* current info
+
+git version 2.17.0
+docker Version: 20.10.0
+
+kubectl version --short
+Client Version: v1.16.0
+Server Version: v1.16.0
+*/

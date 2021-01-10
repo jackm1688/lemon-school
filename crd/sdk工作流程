@@ -1,0 +1,8 @@
+SDK提供以下工作流程来开发新的Operator：
+  1.使用SDK命令行界面（CLI）创建新的Operator项目
+  2.通过添加自定义资源定义（CRD）定义新资源API
+  3.使用SDK API监控指定的资源
+  4.在指定的处理程序中定义Operator协调逻辑(对比期望状态与实际状态)，并使用SDK API与资源进行交互
+  5.使用SDK CLI构建并生成Operator部署manifests
+
+Operator使用SDK在用户自定义的处理程序中以高级API处理监视资源的事件，并采取措施来reconcile（对比期望状态与实际状态）应用程序的状态。
